@@ -12,6 +12,6 @@ Simply download the file and invoke the position() function. See the test code f
 
 # Credits
 
-Thanks to [Jasmine](http://jasmine.github.io/) for test framework. 
+Thanks to [Jasmine](http://jasmine.github.io/) for test framework.
 
 
